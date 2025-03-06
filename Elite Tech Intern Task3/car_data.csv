@@ -1,0 +1,11 @@
+brand,model,year,mileage,engine_size,horsepower,fuel_type,transmission,price
+Toyota,Corolla,2018,30000,1.8,132,Petrol,Automatic,20000
+Honda,Civic,2019,25000,2.0,158,Petrol,Manual,22000
+Ford,Mustang,2020,20000,3.5,310,Petrol,Automatic,35000
+BMW,X5,2017,40000,3.0,300,Diesel,Automatic,45000
+Audi,A4,2021,15000,2.0,190,Petrol,Manual,40000
+Mercedes,C-Class,2020,18000,3.0,255,Diesel,Automatic,55000
+Hyundai,Elantra,2018,35000,1.6,147,Petrol,Automatic,18000
+Kia,Sportage,2019,27000,2.4,181,Petrol,Manual,23000
+Nissan,Altima,2017,42000,2.5,182,Petrol,Automatic,21000
+Chevrolet,Camaro,2016,39000,3.6,335,Petrol,Automatic,37000
